@@ -1,0 +1,13 @@
+Column
+    row
+        icon
+        Text
+        icon
+        icon
+    Column
+        Text
+        Text
+    Column
+        Text
+        Text
+        Text

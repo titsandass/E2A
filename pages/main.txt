@@ -1,0 +1,22 @@
+column
+    row
+        icon
+        text
+        icon 
+        icon
+    container
+        row
+            text
+            icon
+    row
+        text
+        icon
+    container
+        row
+            image
+            image
+            image
+            image
+    container
+        row
+            text
